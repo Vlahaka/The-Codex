@@ -14,7 +14,8 @@ A speculative cosmological framework proposing that the universe arises from dis
 
 --- 
 
-###2.  Hypothesis: Black Holes as Seed Cells for Universes in a Superordinate Medium  
+### 2.  Hypothesis: Black Holes as Seed Cells for Universes in a Superordinate Medium  
+
 **Author:** E.D.  
 **Link:** [https://www.reddit.com/r/cosmology/s/cYcxwQA7dR](https://www.reddit.com/r/cosmology/s/cYcxwQA7dR)  
 **Platform:** Reddit (r/cosmology)  
