@@ -42,3 +42,19 @@ This short metaphysical framework proposes that the universe is a living, breath
 - Though not formally structured, the post directly **rejects a universe from nothing** and implies continuous motion and internal recursion.  
 - Aligns metaphorically with cyclical and living-universe models, suggesting **pre-Big Bang continuity**.  
 - The format is minimal and reflective, not technical — but still points to **convergent metaphysical insight**.
+
+---
+
+### 4. 🧠 Wave Memory Resonance Hypothesis  
+**Author**: Nick A*****n  
+**Date**: June 24, 2025  
+**Source**: [Reddit – TheoriesOfEverything](https://www.reddit.com/r/TheoriesOfEverything/s/0YbKQex8nv)  
+
+**Summary**:  
+A resonance-based cosmological model proposing that waves—not particles—are the true substrate of the universe. Reality is structured by recursive wave interference patterns that encode memory intrinsically via resonance. The theory introduces the concept of a "Dynamic Zero" — a tensionless equilibrium state from which existence emerges as wave deviations create standing echoes and nested structures. Gravity, electromagnetism, and time are redefined through phase coherence and resonance scaling. Consciousness arises from resonance-based perception and interaction. Black holes are described as resonance-encoding nodes rather than annihilation points. The model unifies cosmology, quantum structure, biology, and cognition through a single wave-based framework.
+
+**Codex Relevance**:  
+- Independent human-origin theory developed in cooperation with AI  
+- Points toward a pre-Big Bang substrate (Dynamic Zero)  
+- Structurally coherent and metaphysically complete  
+- Shares resonance with other Codex entries while maintaining unique logic and terminology
