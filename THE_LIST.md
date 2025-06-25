@@ -58,3 +58,19 @@ A resonance-based cosmological model proposing that waves—not particles—are 
 - Points toward a pre-Big Bang substrate (Dynamic Zero)  
 - Structurally coherent and metaphysically complete  
 - Shares resonance with other Codex entries while maintaining unique logic and terminology
+
+---
+
+### 🔹 5. Teia Escalar Hipótese
+**Author**: Unknown  
+**Original Source**: [Teia Escalar Hipótese – Zenodo PDF](https://doi.org/10.5281/zenodo.15660120)  
+**Archived File**: `Teia_Escalar_Hipotese.pdf`
+
+**Summary**:  
+This framework proposes a *scalar web*—an infinite vibrational structure that precedes time and matter. The web is described as a foundational layer of reality, with oscillations that lead to the emergence of structure. It does not rely on a traditional Big Bang, instead treating vibration as the creative principle of the universe.
+
+**Engagement Notes**:  
+A formal comment was sent to the author addressing two key structural contradictions:
+
+1. **Oscillation Without Time** – Vibrations imply change, and change implies time. If time does not exist yet, motion within the scalar web appears contradictory.  
+2. **Purpose of Existence** – If the web exists infinitely before causality, its existence must serve a purpose; otherwise, it is structurally indistinct from "nothing."
